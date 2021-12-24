@@ -14,8 +14,8 @@ Tashkent, Uzbekistan, 100001
 Phone number: +998 94 646 15 02\
 Email: Farrukhjon.dev@gmail.com\
 Telegram usename: @Farrukhjon_1502\
-Discord: Farrukhjon S(S_Farrukhjon)\
-GitHub: S_Farrukhjon
+Discord: Farrukhjon S(Farrukhjondev)\
+GitHub: Farrukhjondev
 
 ## 💼 WORK EXPERIENCE
 Central Bank of Republic of Uzbekistan| September 2019-July 2021
