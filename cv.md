@@ -1,9 +1,4 @@
-<img src="https://user-images.githubusercontent.com/93606012/147364578-f0722af6-e43b-4f45-ac5b-0dcbe824418d.png"
-     alt="Markdown CV icon"
-     valign="top"
-     align="right"
-     width="350px"
-     height="350px"/>
+![Sattorberdiyev Farrukhjon.](https://user-images.githubusercontent.com/93606012/147364578-f0722af6-e43b-4f45-ac5b-0dcbe824418d.png "Markdown CV image.")
 
 # 👨‍💼 PERSONAL INFO
 Farrukhjon Sattoberdiyev, 28 y.o.\
