@@ -6,9 +6,9 @@
      height="350px"/>
 
 # 👨‍💼 PERSONAL INFO
-Farrukhjon Sattoberdiyev, 27 y.o.\
+Farrukhjon Sattoberdiyev, 28 y.o.\
 Web Developer\
-Tashkent, Uzbekistan, 100001
+Tashkent, Uzbekistan, 1000099
 
 ## 📞 CONTACT INFO
 Phone number: +998 94 646 15 02\
@@ -19,10 +19,8 @@ GitHub: Farrukhjondev
 
 ## 💼 WORK EXPERIENCE
 Central Bank of Republic of Uzbekistan| September 2019-July 2021
-<ul>
-     <li>Department of Consumers Rights Protection of Financial Services</li>
-     <li>Department of Prudential Supervision of Credit Organizations</li>
-</ul>
+- Department of Consumers Rights Protection of Financial Services 
+- Department of Prudential Supervision of Credit Organizations
      
 ## 📝 ABOUT MYSELF
 Being pushed into the deep end of learning web programming can be a trying time, but adversity breeds success. You don’t know what you’re capable of until you’re tested, and you might surprise yourself with hidden talents and abilities. I state for myself that “being unsure and being curious about everything is not the worst thing that could happen”. In fact, it could be the best thing that’s happened to me: many successful programmers remember moments of difficulty as those that demanded the most strength – projects at the limit of their ability, demanding fieldwork, high-stress exam times – and proved the most rewarding. 
