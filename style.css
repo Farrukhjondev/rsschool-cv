@@ -58,6 +58,9 @@ body {
 }
 
 .wrapper {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
   display: flex;
   align-items: stretch;
   gap: var(--space-gap-layout);
@@ -139,6 +142,7 @@ body {
   gap: var(--space-gap-box-container);
   background-color: var(--primary-color);
   box-shadow: var(--primary-box-shadow);
+  border: 2px solid transparent;
 }
 
 .box p:first-of-type {
@@ -191,6 +195,7 @@ body {
   border-radius: 50px;
   background-color: var(--primary-color);
   box-shadow: var(--primary-box-shadow);
+  border: 1px solid transparent;
 }
 
 .input:hover {
@@ -285,3 +290,10 @@ body {
   background-color: var(--primary-color);
   box-shadow: var(--primary-box-shadow);
 }
+
+.contact-link {
+    color: var(--primary-text-color);
+    text-decoration: none;
+    padding: 0 10px;
+}
+
