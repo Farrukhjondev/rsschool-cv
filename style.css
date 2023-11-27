@@ -49,12 +49,14 @@ body {
   font-weight: var(--secondary-font-weight);
 }
 
-.nav_list a{
+.nav_list a {
   color: var(--primary-text-color);
 }
-.link:hover a{
+
+.link:hover a {
   color: var(--secondary-color);
 }
+
 .wrapper {
   display: flex;
   align-items: stretch;
@@ -138,7 +140,8 @@ body {
   background-color: var(--primary-color);
   box-shadow: var(--primary-box-shadow);
 }
-.box p:first-of-type{
+
+.box p:first-of-type {
   font-weight: var(--secondary-font-weight);
 }
 
@@ -262,12 +265,11 @@ body {
 
 .footer {
   display: flex;
-  flex-direction: 1;
   justify-content: center;
   align-items: center;
   align-content: center;
   padding: var(--space-gap-layout);
-  gap: var(--space-gap-layout);
+  gap: 75px;
   border-radius: 16px 16px 0 0;
   background-color: var(--primary-bg-color);
 }
